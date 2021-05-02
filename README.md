@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Shigueru Nagata</h1>
-<h3 align="center">M.Sc. en Física</h3>
+<h3 align="center">Un joven físico en el campo de la simulación de materiales con técnicas de primeros principios</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shigueru&label=Profile%20views&color=0e75b6&style=flat" alt="shigueru" /> </p>
 
