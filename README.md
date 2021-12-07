@@ -1,23 +1,23 @@
-<h1 align="center">Hola 👋, Soy Shigueru Nagata</h1>
-<h3 align="center">Un joven físico en el campo de la simulación de materiales con técnicas de primeros principios</h3>
+<h1 align="center">Hello !! 👋, My name is Shigueru Nagata</h1>
+<h3 align="center">I'm a young physicist in the field of materials simulation using first-principles techniques.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shigueru&label=Profile%20views&color=0e75b6&style=flat" alt="shigueru" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nagatashigueru" target="blank"><img src="https://img.shields.io/twitter/follow/nagatashigueru?logo=twitter&style=for-the-badge" alt="nagatashigueru" /></a> </p>
 
-- 🔭 Estoy trabajando en: **Estudio de las propiedades mecánicas de nanohilos de h-BNC**
+- 🔭 I’m currently working on: **Estudio de las propiedades mecánicas de nanohilos de h-BNC**
 
-- 🌱 Estoy aprendiendo **Julia y Docker/Podman**
+- 🌱 I’m currently learning **Julia Language and Docker/Podman**
 
-- 👨‍💻 Mis proyectos de investigacion pueden hallarse en [https://shiguerunagata.com/#projects](https://shiguerunagata.com/#projects)
+- 👨‍💻 My research projects are [https://shiguerunagata.com/#projects](https://shiguerunagata.com/#projects)
 
-- 📝 Escribos a veces artículos [https://shiguerunagata.com/#posts](https://shiguerunagata.com/#posts)
+- 📝 Sometimes I write posts in [https://shiguerunagata.com/#posts](https://shiguerunagata.com/#posts)
 
-- 💬 Preguntame sobre **Python, Latex, Quantum ESPRESSO**
+- 💬 Ask me about **Python, Latex, Quantum ESPRESSO**
 
-- 📫 Puedes escribirme a **nagatashigueru@gmail.com**
+- 📫 You can reach me **nagatashigueru@gmail.com**
 
-- 📄 Puedes ver mi CV [https://shiguerunagata.com/cv/](https://shiguerunagata.com/cv/)
+- 📄 My CV [https://shiguerunagata.com/cv/](https://shiguerunagata.com/cv/)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
